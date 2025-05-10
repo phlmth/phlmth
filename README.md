@@ -9,10 +9,10 @@ I'm a Backend Developer student with a deep curiosity for philosophy and literat
 ![English](https://img.shields.io/badge/English-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green?style=flat-square)
 
 ### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=c,py,js&theme=dark)
+![Programming Languages](https://skillicons.dev/icons?i=c,py,js,java&theme=dark)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=linux,arch,git,neovim,bash,aws&theme=dark)
 
 ### Learning
-![Currently Learning](https://skillicons.dev/icons?i=cpp,postgresql,java,spring,ruby,rails,react,next,&theme=dark)
+![Currently Learning](https://skillicons.dev/icons?i=cpp,postgresql,spring,ruby,rails,react,next,&theme=dark)
