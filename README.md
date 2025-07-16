@@ -1,5 +1,5 @@
 ## Hi there, welcome!
-![Ok](ok.gif)
+![me](literally-me.gif)
 
 I'm a Computer Science student driven by a deep, insatiable curiosity and a passion for solving complex problems. I thrive on breaking down abstractions to truly understand how things work, constantly building practical projects and refining my skills through continuous improvement. 
 
